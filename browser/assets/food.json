@@ -1,0 +1,518 @@
+{
+  "Monkhaivi": [
+    {
+      "Code": "KV0001",
+      "Name": "Bì cuốn",
+      "Price": 50000,
+      "Ration": "5 cuốn - 2 người",
+      "Ingredient": "Miến trụng chín\nThính rang \nNấm chiên\nBánh tráng bột gạo\nRau thơm\nXà lách\nNước mắm \nLưu ý: Món này có chứa thính (thường được làm từ đậu nành và gạo) và nấm, cần lưu ý cho những khách hàng có thể bị dị ứng với các thành phần này.",
+      "Description": "Món ăn được tạo ra từ sợi miến trụng chín trộn lẫn với thính rang thơm, nấm chiên và gia vị đặc biệt. Tất cả được cuộn trong lớp bánh trán bột gạo với rau thơm, xà lách, ăn kèm với nước mắm tỏi ớt chua ngọt chắc chắn sẽ mang đến một hương vị hoàn toàn quen thuộc nhưng không kém phần đặc biệt.",
+      "Image": "https://drive.google.com/uc?export=view&id=19tbOXiMoUCzQoCYOV7_RmVM_O9Luya0S",
+      "Sold": 200,
+      "Rating": 4
+    },
+    {
+      "Code": "KV0002",
+      "Name": "Chả giò trái cây",
+      "Price": 80000,
+      "Ration": "5 cuốn - 2 người",
+      "Ingredient": "Trái cây tươi cắt hạt lựu\nSốt kem mayonnaise\nBánh bía cuộn ",
+      "Description": "Món chả giò lạ miệng với các loại trái cây được cắt nhỏ hòa trong sốt mayonnaise đậm đà tạo nên món chả giò nhiều hương vị thơm ngon.",
+      "Image": "https://drive.google.com/uc?export=view&id=17T7Rqowznuzo7pIQ-sG6Y5myNW0_KJbj",
+      "Sold": 201,
+      "Rating": 5
+    },
+    {
+      "Code": "KV0003",
+      "Name": "Chả giò nấm mối",
+      "Price": 80000,
+      "Ration": "5 cuốn - 2 người",
+      "Ingredient": "Đậu xanh \nNấm mối\nBánh bía cuốn",
+      "Description": "Món chả giò đặc biệt được tạo nên từ những nguyên liệu quen thuộc như khoai lang , khoai môn ,nấm mèo, đậu xanh và nấm mối, tất cả được cuộn trong một lớp bánh trán giòn thơm cùng với nước chấm đậm đà sẽ mang đến một món ăn rất vừa miệng.\n",
+      "Image": "https://drive.google.com/uc?export=view&id=1O4nTTqImZmu08mf9N5ilNtem2qW41Ys0",
+      "Sold": 202,
+      "Rating": 4
+    },
+    {
+      "Code": "KV0004",
+      "Name": "Sa kê chiên mè",
+      "Price": 60000,
+      "Ration": "2 người",
+      "Ingredient": "Quả SAKÊ\nBột \nMè",
+      "Description": "Sa kê chiên mè là món khai vị độc đáo và thơm ngon, nổi bật với vị ngọt tự nhiên của quả sa kê được tẩm bột và chiên giòn, cuối cùng được lăn qua mè rang vàng. Món này mang đến trải nghiệm giòn rụm đầy hấp dẫn.",
+      "Image": "https://drive.google.com/uc?export=view&id=1Vt0IxiSj8dwxPfPvSSWanmYeYpB6AEPh",
+      "Sold": 203,
+      "Rating": 5
+    },
+    {
+      "Code": "KV0005",
+      "Name": "Khoai môn chiên mè",
+      "Price": 60000,
+      "Ration": "2 người",
+      "Ingredient": "Quả Khoai môn\nBột \nMè",
+      "Description": "Khoai môn chiên mè là món khai vị độc đáo và thơm ngon, nổi bật với vị ngọt tự nhiên của quả khoai môn được tẩm bột và chiên giòn, cuối cùng được lăn qua mè rang vàng. Món này mang đến trải nghiệm giòn rụm đầy hấp dẫn.",
+      "Image": "https://drive.google.com/uc?export=view&id=1ENN6B-j9enWDPp42V964U2NoCsXE5BNH",
+      "Sold": 204,
+      "Rating": 4
+    },
+    {
+      "Code": "KV0006",
+      "Name": "Salad trộn",
+      "Price": 80000,
+      "Ration": "2 người",
+      "Ingredient": " Sà Lách Trộn chua ngọt\nSườn giòn chay\nCà chua \nCà rốt \nMayonnaise",
+      "Description": "Salad trộn là một món ăn nhẹ nhàng nhưng không kém phần ngon miệng với sự kết hợp của xà lách tươi giòn, sườn giòn chay thêm phần hấp dẫn, cùng với cà chua và cà rốt đầy màu sắc. Được trộn đều với sốt mayonnaise chua ngọt, món salad này sẽ mang lại một hương vị tươi mới và đầy đủ dinh dưỡng, thích hợp cho bữa ăn nhẹ hoặc là món khai vị trong các bữa tiệc.",
+      "Image": "https://drive.google.com/uc?export=view&id=1u88iMDo69vPK22m6CegprDZ_n_p6cV4S",
+      "Sold": 205,
+      "Rating": 5
+    },
+    {
+      "Code": "KV0007",
+      "Name": "Gỏi nấm rong biển",
+      "Price": 80000,
+      "Ration": "2 người",
+      "Ingredient": "Rau củ bào sợi (cà rốt, dưa leo)\nRong biển chiên giòn\nNước sốt chua ngọt. ",
+      "Description": "Món gỏi kết hợp giữa rau củ bào sợi cùng với rong biển chiên giòn hòa quyện trong nước sốt chua ngọt tạo nên một món ăn khai vị nhẹ nhàng.",
+      "Image": "https://drive.google.com/uc?export=view&id=1JWRgAyE3XdTYGvhq7HioXjpgK_KaOGMa",
+      "Sold": 206,
+      "Rating": 4
+    },
+    {
+      "Code": "KV0008",
+      "Name": "Gỏi nấm sốt thái",
+      "Price": 60000,
+      "Ration": "2 người",
+      "Ingredient": "Nấm chiên\nRau củ tươi (như cà rốt, dưa chuột)\nNước sốt me\nGạo rang.",
+      "Description": "Những sợi nấm chiên thơm thơm được trộn chung với rau củ tươi ngon trong nước sốt me đậm đà, cùng với một chút gạo rang thơm đã tạo nên món gỏi đặc biệt thơm ngon và độc đáo.",
+      "Image": "https://drive.google.com/uc?export=view&id=1kKzQXpe3k5sj0cg0ryJUBO8uhrUbZK8U",
+      "Sold": 207,
+      "Rating": 5
+    },
+    {
+      "Code": "KV0009",
+      "Name": "Súp nấm hương",
+      "Price": 80000,
+      "Ration": "2 người",
+      "Ingredient": "Nấm hương\nCà rốt\nĐậu phụ\nNgô non\nHành lá\nGừng.",
+      "Description": "Súp chay nấm hương là một món ăn nhẹ nhàng nhưng đầy đủ hương vị. Với sự kết hợp của nấm hương thơm ngon và các loại rau củ tươi, món súp này không chỉ bổ dưỡng mà còn rất thơm ngon, phù hợp làm món khai vị hoặc món ăn chính trong các bữa ăn chay.",
+      "Image": "https://drive.google.com/uc?export=view&id=1jm4f-nWv30KRbUA8A1Z8rw1mkvxnK70-",
+      "Sold": 208,
+      "Rating": 4
+    },
+    {
+      "Code": "KV0010",
+      "Name": "Súp súp lơ xanh",
+      "Price": 80000,
+      "Ration": "2 người",
+      "Ingredient": "Súp lơ xanh\nKhoai tây\nHành tím\nTỏi\nKem tươi\nHạt tiêu xay",
+      "Description": "Súp lơ xanh nghiền là một món ăn bổ dưỡng và giàu hương vị. Đây là sự kết hợp của súp lơ xanh và khoai tây nghiền mịn, cùng với vị beo béo của kem tươi và một chút hương thơm của tỏi xào.",
+      "Image": "https://drive.google.com/uc?export=view&id=1njIiCKu2dTYUqD2deFGmqDhQE-oFelN6",
+      "Sold": 209,
+      "Rating": 5
+    }
+  ],
+  "Monchinh": [
+    {
+      "Code": "MC0001",
+      "Name": "Cơm chiên Dương Châu",
+      "Price": 60000,
+      "Ration": "2 người",
+      "Ingredient": "Gạo\nĐậu Hà Lan\nNgô non\nCà rốt\nNấm\nĐậu phụ, hành lá, dầu mè",
+      "Description": "Với các loại rau củ và đậu phụ tươi ngon, đảm bảo món ăn không những ngon miệng mà còn đầy đủ dinh dưỡng.",
+      "Image": "https://drive.google.com/uc?export=view&id=1D176nhssKb6aB5__ktR2MnfagEhSk3N8",
+      "Sold": 200,
+      "Rating": 4
+    },
+    {
+      "Code": "MC0002",
+      "Name": "Cơm chiên lá sen",
+      "Price": 80000,
+      "Ration": "2 người",
+      "Ingredient": "Cơm\nĐậu Hà Lan\nNgô non\nCà rốt\nHạt sen",
+      "Description": "Món cơm chiên được gói trong lá sen non rồi quay nóng tạo nên một phần cơm vừa ngon miệng vừa thoang thoảng mùi thơm của lá sen đồng quê.",
+      "Image": "https://drive.google.com/uc?export=view&id=1gVttOqJKg8nMnSEHEe1gHY8WbFbhZNNL",
+      "Sold": 201,
+      "Rating": 5
+    },
+    {
+      "Code": "MC0003",
+      "Name": "Mì Quảng",
+      "Price": 60000,
+      "Ration": "1 người",
+      "Ingredient": "Mì sợi dày\nNước dùng\nMắm ruốc chay\nTương cà \nCác loại nấm tươi",
+      "Description": "Sợi mì Quảng dai dai kết hợp nước dùng manng hương vị rất đặc trưng kết hợp với miếng bánh đa giòn rụm, bùi bùi của đậu phộng, nhưng sẽ thật thiếu nếu như không có sự kết hợp với vị the the của húng lũi, nhẫn nhẹ với cải con, tất cả đều mang lại món ẩm thực đặc trưng của xứ Quảng quê hương",
+      "Image": "https://drive.google.com/uc?export=view&id=1T9wn14NpcsfTq0_VVJRAeL46fDiardsG",
+      "Sold": 202,
+      "Rating": 4
+    },
+    {
+      "Code": "MC0004",
+      "Name": "Bún chả giò",
+      "Price": 60000,
+      "Ration": "1 người",
+      "Ingredient": "Bún\nChả giò\nRau thơm\nNước mắm",
+      "Description": "Món bún được ăn kèm với chả giò truyền thống đặc biệt , rau thơm và nước mắm chua ngọt đậm đà sẽ tạo nên một món bún trộn hoàn toàn mới lạ.",
+      "Image": "https://drive.google.com/uc?export=view&id=1irSY1xm6OP0wdtQjMr8FFGHyXWDfB_e8",
+      "Sold": 203,
+      "Rating": 5
+    },
+    {
+      "Code": "MC0005",
+      "Name": "Mì xào giòn thập cẩm",
+      "Price": 70000,
+      "Ration": "1 người",
+      "Ingredient": "Mì sợi chiên giòn\nRau củ tươi (cà rốt, đậu Hà Lan, ngô, ớt chuông)\nĐậu hủ\nSườn non chay\nNước sốt đậm đà",
+      "Description": "Sợi mì chiên giòn tan hòa cùng rau củ tươi ngon trong nước sốt đậm đà và thanh ngọt.",
+      "Image": "https://drive.google.com/uc?export=view&id=1sBTUUwViE26K7FIf3VgTlWdC2FvDPfw7",
+      "Sold": 204,
+      "Rating": 4
+    },
+    {
+      "Code": "MC0006",
+      "Name": "Lá lốt ngũ vị",
+      "Price": 80000,
+      "Ration": "1 người",
+      "Ingredient": "Lá lốt\nCác loại gia vị ngũ vị (hồi, quế, tiêu, ớt, và tỏi)\nĐậu phụ \nNấm",
+      "Description": "Lá lốt ngũ vị là một món ăn đặc sắc, nổi bật với hương thơm đặc trưng của lá lốt và sự phong phú của ngũ vị hương. Thịt chay được tẩm ướp gia vị rồi cuộn trong lá lốt và nướng hoặc chiên giòn, mang đến một hương vị thơm ngon và độc đáo.",
+      "Image": "https://drive.google.com/uc?export=view&id=15q94PXfkfqxgLQv93uEpddcXg4QOsWx4",
+      "Sold": 205,
+      "Rating": 4
+    },
+    {
+      "Code": "MC0007",
+      "Name": "Đậu hủ sả ớt",
+      "Price": 60000,
+      "Ration": "2 người",
+      "Ingredient": "Đậu hủ\nNước tương\nHạt tiêu xay\nHành tây",
+      "Description": "Đậu hủ mềm mại được chiên giòn rồi xào cùng với sả và ớt tạo nên một vị cay nồng dễ chịu, hòa quyện với vị đậm đà của nước tương và hạt tiêu xay.",
+      "Image": "https://drive.google.com/uc?export=view&id=1Q69lFYQLGrNnqKuKYR-MskWZmHhdIgSM",
+      "Sold": 206,
+      "Rating": 5
+    },
+    {
+      "Code": "MC0008",
+      "Name": "Canh chua bạc hà",
+      "Price": 60000,
+      "Ration": "2 người",
+      "Ingredient": "Bạc hà tươi\nThơm\nCà chua\nGiá\nNước canh chua cay (có thể bao gồm me, ớt, và các loại gia vị khác)",
+      "Description": "Những sợi bạc hà tươi, giòn và ngọt được hòa quyện với nước canh chua chua cay cay độc quyền.\n",
+      "Image": "https://drive.google.com/uc?export=view&id=1PmAglH1VWa2yIsOu63Z2fqCNp-MjzqHT",
+      "Sold": 207,
+      "Rating": 4
+    },
+    {
+      "Code": "MC0009",
+      "Name": "Canh tiềm hồng sâm",
+      "Price": 120000,
+      "Ration": "2 người",
+      "Ingredient": "Hồng sâm\nCà rốt\nCủ cải trắng\nNấm",
+      "Description": "Canh tiềm hồng sâm là một món canh bổ dưỡng, kết hợp giữa vị thanh ngọt tự nhiên của xương và các loại rau củ với công dụng tăng cường sức khỏe từ hồng sâm. Món canh này không chỉ thơm ngon, giàu dinh dưỡng mà còn giúp cải thiện sức khỏe và sự tỉnh táo, thích hợp thưởng thức trong những bữa ăn quan trọng hoặc như một phương pháp hỗ trợ sức khỏe.",
+      "Image": "https://drive.google.com/uc?export=view&id=153KD-s5d5efoxnOLRYPIZdkVusjPQLxd",
+      "Sold": 208,
+      "Rating": 5
+    },
+    {
+      "Code": "MC0010",
+      "Name": "Cơm cháy sốt nấm",
+      "Price": 90000,
+      "Ration": "2 người",
+      "Ingredient": "Cơm cháy miếng\nSốt nấm các loại ",
+      "Description": "Cơm cháy sốt nấm là một món ăn độc đáo với cơm cháy giòn tan phủ lên trên là sốt nấm đậm đà. Sự kết hợp giữa vị giòn của cơm cháy và hương vị ngọt ngào, thơm lừng của nấm tạo nên một món ăn hấp dẫn, đưa cơm. ",
+      "Image": "https://drive.google.com/uc?export=view&id=1T5wTAEZZkGP3IIUHMBkqxf5HFgYg-DDU",
+      "Sold": 209,
+      "Rating": 4
+    }
+  ],
+  "Monlau": [
+    {
+      "Code": "ML001",
+      "Name": "Lẩu riêu chay ",
+      "Price": 250000,
+      "Ration": "2 người",
+      "Ingredient": "Sữa đậu nành\nĐậu hũ chiên\nNấm rơm\nCà rốt\nCủ cải trắng\nNấm bào ngư\nChả chay",
+      "Description": " Một món lẩu chay tinh tế kết hợp sữa đậu nành, đậu hũ chiên, nấm rơm, cà rốt, củ cải trắng, nấm bào ngư và chả chay, mang đến hương vị đậm đà và giàu dinh dưỡng.",
+      "Image": "https://drive.google.com/uc?export=view&id=1npqFzEsZDa3xbFPMG673bQ4_35K9KdwA",
+      "Sold": 200,
+      "Rating": 4
+    },
+    {
+      "Code": "ML002",
+      "Name": "Lẩu khổ qua ",
+      "Price": 200000,
+      "Ration": "2 người",
+      "Ingredient": "Khổ qua\nChả chay\nĐậu hủ\nPhù chúc",
+      "Description": "Món lẩu này bao gồm khổ qua nhồi chả chay và đậu hủ  tạo ra một hương vị thanh mát và đắng nhẹ.",
+      "Image": "https://drive.google.com/uc?export=view&id=1grk9b4aqRIt9q4nZLk_0A53RB6hgkHz0",
+      "Sold": 201,
+      "Rating": 5
+    },
+    {
+      "Code": "ML003",
+      "Name": "Lẩu nấm rau củ",
+      "Price": 200000,
+      "Ration": "2 người",
+      "Ingredient": "Nấm \nRau củ ",
+      "Description": "Sự phong phú của nấm kết hợp với các loại rau củ tươi ngon, mang lại một món lẩu chay thơm ngon và thanh mát. ",
+      "Image": "https://drive.google.com/uc?export=view&id=1gtl19wKl-xt2Sub3r_1_uHldvZPfgvsG",
+      "Sold": 202,
+      "Rating": 4
+    },
+    {
+      "Code": "ML004",
+      "Name": "Lẩu nấm tiêu xanh ",
+      "Price": 200000,
+      "Ration": "2 người",
+      "Ingredient": "Nấm \nTiêu xanh",
+      "Description": "Lẩu nấm tiêu xanh sử dụng nấm và tiêu xanh, tạo nên một món lẩu có vị cay nhẹ và hương thơm nồng nàn đặc trưng.",
+      "Image": "https://drive.google.com/uc?export=view&id=1rYwvNjS69yoiI0kOjxENai55F42DbcSs",
+      "Sold": 203,
+      "Rating": 5
+    },
+    {
+      "Code": "ML005",
+      "Name": "Lẩu thái chay",
+      "Price": 250000,
+      "Ration": "2 người",
+      "Ingredient": "Nấm \nSả, lá chanh\nNước cốt dừa",
+      "Description": "Món lẩu Thái chay này có sự kết hợp của nấm, sả, lá chanh và nước cốt dừa, mang đến vị chua cay đặc trưng của ẩm thực Thái Lan.",
+      "Image": "https://drive.google.com/uc?export=view&id=1384_kL-o0IvWH3Buw6mdcWT413NeJGid",
+      "Sold": 204,
+      "Rating": 4
+    },
+    {
+      "Code": "ML006",
+      "Name": "Lẩu chao",
+      "Price": 200000,
+      "Ration": "2 người",
+      "Ingredient": "Nấm \nĐậu hũ\nChao\nRau củ \nTàu hủ ky\n",
+      "Description": "Lẩu chao gồm nấm, đậu hũ, chao, rau củ và tàu hủ ky, một món lẩu thơm phức với vị ngọt tự nhiên và hơi béo nhẹ từ chao.",
+      "Image": "https://drive.google.com/uc?export=view&id=1GZnO4sJNCtsMamtAkq6FK1wm7lqp4te0",
+      "Sold": 205,
+      "Rating": 4
+    }
+  ],
+  "Trangmien": [
+    {
+      "Code": "TM001",
+      "Name": "Chè cốm lá dứa",
+      "Price": 25000,
+      "Ration": "1 người",
+      "Ingredient": "Cốm tươi\nLá dứa\nĐường\nNước cốt dừa",
+      "Description": "Chè cốm được nấu cùng lá dứa, tạo ra một mùi thơm đặc trưng và vị ngọt thanh, màu xanh mát mắt.",
+      "Image": "https://drive.google.com/uc?export=view&id=1xNJu4srsJMmKyZCxgwgloGziN7ikGqFB",
+      "Sold": 200,
+      "Rating": 4
+    },
+    {
+      "Code": "TM002",
+      "Name": "Sương sáo đường đỏ",
+      "Price": 25000,
+      "Ration": "1 người",
+      "Ingredient": "Sương sáo\nĐường đỏ \nNước lọc",
+      "Description": "Một món tráng miệng giải nhiệt với sương sáo mềm mại kết hợp với siro đường đỏ ngọt ngào.",
+      "Image": "https://drive.google.com/uc?export=view&id=1lMtbwegT3CPz8uccFjCrD7P5fnh6L1AR",
+      "Sold": 201,
+      "Rating": 5
+    },
+    {
+      "Code": "TM003",
+      "Name": "Chè bắp",
+      "Price": 25000,
+      "Ration": "1 người",
+      "Ingredient": "Bắp tươi hoặc bắp khô\nĐường\nNước cốt dừa\nLá dứa",
+      "Description": "Chè bắp dân dã với hạt bắp nguyên, nấu cùng nước cốt dừa và đường, mang vị ngọt bùi tự nhiên.",
+      "Image": "https://drive.google.com/uc?export=view&id=1d-IWV86oeYPrauvWu6ZZqInefw5CXQ2o",
+      "Sold": 202,
+      "Rating": 4
+    },
+    {
+      "Code": "TM004",
+      "Name": "Chè củ năng",
+      "Price": 25000,
+      "Ration": "1 người",
+      "Ingredient": "Củ năng\nĐường\nNước cốt dừa",
+      "Description": "Chè bắp dân dã với hạt bắp nguyên, nấu cùng nước cốt dừa và đường, mang vị ngọt bùi tự nhiên.",
+      "Image": "https://drive.google.com/uc?export=view&id=1ZmYnsmj1tD18xdgmmQUaFDh0gthbBJDQ",
+      "Sold": 203,
+      "Rating": 5
+    },
+    {
+      "Code": "TM005",
+      "Name": "Bánh chuối hấp",
+      "Price": 30000,
+      "Ration": "1 người",
+      "Ingredient": "Chuối chín\nBột gạo\nBột năng\nNước cốt dừa",
+      "Description": "Bánh chuối hấp mềm mại, thơm ngọt với vị chuối chín mềm và ánh hương dừa",
+      "Image": "https://drive.google.com/uc?export=view&id=15hzGzK-9mEZUnq4wNnpcEcmpPZoH0pFJ",
+      "Sold": 204,
+      "Rating": 4
+    },
+    {
+      "Code": "TM006",
+      "Name": "Rau câu dừa",
+      "Price": 30000,
+      "Ration": "1 người",
+      "Ingredient": "Bột rau câu\nĐường\nNước cốt dừa\nNước lọc",
+      "Description": "Món tráng miệng thanh mát với rau câu trong veo kết hợp với nước cốt dừa béo ngậy.",
+      "Image": "https://drive.google.com/uc?export=view&id=1RuNnedv9nzbCQsoEQArS4eVB8z54jUGB",
+      "Sold": 205,
+      "Rating": 4
+    },
+    {
+      "Code": "TM007",
+      "Name": "Bánh chuối nướng",
+      "Price": 30000,
+      "Ration": "1 người",
+      "Ingredient": "Chuối chín\nBột mì",
+      "Description": "Bánh chuối nướng thơm lừng với lớp vỏ ngoài giòn rụm, bên trong chuối chín ngọt, được ưa chuộng trong những buổi tiệc nhẹ.",
+      "Image": "https://drive.google.com/uc?export=view&id=1WbAhDJWh8XTKadyH4OhWkFP4qiJK9RzA",
+      "Sold": 206,
+      "Rating": 5
+    },
+    {
+      "Code": "TM008",
+      "Name": "Chè nhãn nhục",
+      "Price": 25000,
+      "Ration": "1 người",
+      "Ingredient": "Nhãn khô\nHạt sen",
+      "Description": "Chè nhãn nhục là sự kết hợp của nhãn và hạt sen, tạo nên một món chè ngọt ngào và bổ dưỡng.",
+      "Image": "https://drive.google.com/uc?export=view&id=1GFZ2RyIcj3MI3uQCSDkHWWe5ARkCbt1a",
+      "Sold": 207,
+      "Rating": 4
+    },
+    {
+      "Code": "TM009",
+      "Name": "Chè bánh lọt",
+      "Price": 25000,
+      "Ration": "1 người",
+      "Ingredient": "Bột gạo \nNước cốt dừa\nDừa nạo",
+      "Description": "Chè bánh lọt với những sợi bánh lọt dai dai, nấu trong nước cốt dừa thơm ngậy và đường, mang lại cảm giác mát lạnh",
+      "Image": "https://drive.google.com/uc?export=view&id=1wMiaxWT0Okoluf0rs12dNbha1N3h0NME",
+      "Sold": 208,
+      "Rating": 5
+    },
+    {
+      "Code": "TM010",
+      "Name": "Trái cây theo mùa",
+      "Price": 50000,
+      "Ration": "2 người",
+      "Ingredient": "Các loại trái cây tươi theo mùa",
+      "Description": " Một đĩa trái cây tươi ngon, đa dạng với những loại quả theo mùa, cung cấp nhiều vitamin và là sự lựa chọn hoàn hảo cho sức khỏe.",
+      "Image": "https://drive.google.com/uc?export=view&id=1-E1h_lyqoY1xThmqVsbUuny-3NzOux-F",
+      "Sold": 209,
+      "Rating": 4
+    }
+  ],
+  "douong": [
+    {
+      "Code": "DU001",
+      "Name": "Set trà xanh",
+      "Price": 50000,
+      "Ration": 4,
+      "Ingredient": "Lá trà xanh tươi",
+      "Description": "Trà làm từ lá tươi chưa bị oxy hóa, có vị thanh và hàm lượng chất chống oxy hóa cao.",
+      "Image": "https://drive.google.com/uc?export=view&id=18JcU26ZcQjEmT_RrRUHQrqfvIIy9Ao-4",
+      "Sold": 200,
+      "Rating": 4
+    },
+    {
+      "Code": "DU002",
+      "Name": "Sữa đậu nành",
+      "Price": 20000,
+      "Ration": 1,
+      "Ingredient": "Đậu nành",
+      "Description": "Thức uống từ hạt đậu nành xay nhuyễn, giàu protein và không chứa lactose.",
+      "Image": "https://drive.google.com/uc?export=view&id=170rhVUwSzmaMWrD4hpOOokacD6PMmMfx",
+      "Sold": 201,
+      "Rating": 5
+    },
+    {
+      "Code": "DU003",
+      "Name": "Nước nha đam",
+      "Price": 20000,
+      "Ration": 1,
+      "Ingredient": "Nha đam",
+      "Description": "Nước giải khát làm từ gel nha đam, có tác dụng làm mát và giải nhiệt.\n",
+      "Image": "https://drive.google.com/uc?export=view&id=1sh__me0_2JyW8ab5RiU2tRibvu_ujeee",
+      "Sold": 202,
+      "Rating": 4
+    },
+    {
+      "Code": "DU004",
+      "Name": "Nước mía",
+      "Price": 20000,
+      "Ration": 1,
+      "Ingredient": "Mía tươi",
+      "Description": "Nước ép từ cây mía, ngọt tự nhiên và giàu năng lượng.",
+      "Image": "https://drive.google.com/uc?export=view&id=1GPDjA91OyHBrKHoZoBO4kf2H6Slzlrg0",
+      "Sold": 203,
+      "Rating": 5
+    },
+    {
+      "Code": "DU005",
+      "Name": "Trà atiso đỏ",
+      "Price": 20000,
+      "Ration": 1,
+      "Ingredient": "Hoa atiso đỏ",
+      "Description": "Trà thảo mộc làm từ búp hoa atiso đỏ, có lợi cho sức khỏe tim mạch.",
+      "Image": "https://drive.google.com/uc?export=view&id=1ksOlH1FOJbY9Fad5J-Ky4R--E2RGDqJb",
+      "Sold": 204,
+      "Rating": 4
+    },
+    {
+      "Code": "DU006",
+      "Name": "Nước sấu ngâm",
+      "Price": 20000,
+      "Ration": 1,
+      "Ingredient": "Sấu ngâm",
+      "Description": "Nước giải khát làm từ quả sấu ngâm, có vị chua dịu và mát lạnh.",
+      "Image": "https://drive.google.com/uc?export=view&id=1w-Err8uVUuc-dAuDOWao8WFl91zUw7Qb",
+      "Sold": 205,
+      "Rating": 4
+    },
+    {
+      "Code": "DU007",
+      "Name": "Nước mơ",
+      "Price": 20000,
+      "Ration": 1,
+      "Ingredient": "Mơ khô",
+      "Description": "Nước ép từ quả mơ, thường được ngâm với đường và có vị ngọt dễ chịu.",
+      "Image": "https://drive.google.com/uc?export=view&id=1ca5Wm74uJtYOmVWyr-g_aIGDbuOhpZnY",
+      "Sold": 206,
+      "Rating": 5
+    },
+    {
+      "Code": "DU008",
+      "Name": "Trà tắc",
+      "Price": 20000,
+      "Ration": 1,
+      "Ingredient": "Tắc",
+      "Description": "Trà pha với tinh chất tắc, mang lại hương vị chua nhẹ và thơm mát.",
+      "Image": "https://drive.google.com/uc?export=view&id=1laBoPxOZP7a0inxs9GYhw1yuzJiMd25b",
+      "Sold": 207,
+      "Rating": 4
+    },
+    {
+      "Code": "DU009",
+      "Name": "trà gừng",
+      "Price": 25000,
+      "Ration": 1,
+      "Ingredient": "Gừng tươi\nMật ong",
+      "Description": "Trà nóng pha với gừng, có tác dụng ấm bụng và kích thích tiêu hóa.",
+      "Image": "https://drive.google.com/uc?export=view&id=1VQXOiHhvG3MqouXceTW-xiz1SwquJw4v",
+      "Sold": 208,
+      "Rating": 5
+    },
+    {
+      "Code": "DU010",
+      "Name": "Sữa bắp",
+      "Price": 20000,
+      "Ration": 1,
+      "Ingredient": "Bắp tươi ",
+      "Description": "Thức uống làm từ ngô nghiền, thơm ngọt và giàu dinh dưỡng.",
+      "Image": "https://drive.google.com/uc?export=view&id=1Z-y8yY150skr2M08TI63s6ARt0wanKQK",
+      "Sold": 209,
+      "Rating": 4
+    }
+  ]
+}
